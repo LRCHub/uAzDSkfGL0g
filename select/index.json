@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Cult.",
+  "base_artist": "natori",
+  "createdAt": "2026-02-19T06:03:13.065353Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cult",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/01_Cult_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cult Of Snap!",
+      "artist": "Snap!",
+      "has_synced": false,
+      "path": "select/02_Cult_Of_Snap!_Snap!.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Dig You [Cult Hero Live in the Marquee Club London March 1980]",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/03_I_Dig_You_[Cult_Hero_Live_in_the_Marquee_Club_London_March_1980]_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm A Cult Hero",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/04_I'm_A_Cult_Hero_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm A Cult Hero [Cult Hero Live in the Marquee Club London March 1980]",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/05_I'm_A_Cult_Hero_[Cult_Hero_Live_in_the_Marquee_Club_London_March_1980]_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm a Cult Hero (Live in London, March 1980)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/06_I'm_a_Cult_Hero_(Live_in_London,_March_1980)_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Guyana (Cult of the Damned)",
+      "artist": "Manowar",
+      "has_synced": false,
+      "path": "select/07_Guyana_(Cult_of_the_Damned)_Manowar.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Cult of Venus Aversa",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/08_The_Cult_of_Venus_Aversa_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Cult of Mystery",
+      "artist": "Temperance",
+      "has_synced": true,
+      "path": "select/09_The_Cult_of_Mystery_Temperance.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cult",
+      "artist": "Skinny Puppy",
+      "has_synced": false,
+      "path": "select/10_Cult_Skinny_Puppy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Burnin' For You (blue Oyster Cult)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/11_Burnin'_For_You_(blue_Oyster_Cult)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cities On Flame (blue Oyster Cult)",
+      "artist": "Iced Earth",
+      "has_synced": true,
+      "path": "select/12_Cities_On_Flame_(blue_Oyster_Cult)_Iced_Earth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cult (Radio Version)",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/13_Cult_(Radio_Version)_Slayer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cult.",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_Cult._なとり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Cult.",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_02_Cult._なとり.txt"
+    }
+  ]
+}
